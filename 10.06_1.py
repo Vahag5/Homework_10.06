@@ -1,5 +1,6 @@
 def starts_with(str1, str2) :
-    return str1.startswith(str2)    #ogtagorcenq startswith metod@
+    s = len(str2)
+    return str1[:s] == str2   
 
 
 print (starts_with('parahandes', 'par')) # True a tpelu
