@@ -6,4 +6,4 @@ def convert_to_int(string):
 
 
 st = 'AAa'                              
-print(convert_to_int(st))     
+print(convert_to_int(st))   # ktpri 656597   65-A, 65-A, a- 97    
